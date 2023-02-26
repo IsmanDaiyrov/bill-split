@@ -1,6 +1,11 @@
-# bill_split
+# Bill Split Project
 
 A new Flutter project.
+
+## Preview
+
+
+<img width="478" alt="Screenshot 2023-02-26 at 2 22 48 PM" src="https://user-images.githubusercontent.com/65091188/221436031-7e0610f5-493d-4c22-a21a-0a3baad5c684.png"><img width="478" alt="Screenshot 2023-02-26 at 2 23 44 PM" src="https://user-images.githubusercontent.com/65091188/221436043-a8277eba-ec77-4caa-9b45-4192240928f3.png">
 
 ## Getting Started
 
